@@ -1,0 +1,12 @@
+# add 'source ~/.zshaliases' to ~/.zshrc
+
+alias emulator="emulator -avd Pixel_3a_API_34_extension_level_7_x86_64"
+
+alias lz=lazygit
+alias pn=pnpm
+alias src="source ~/.zshrc"
+
+# replaces cat with batcat
+alias cat=bat
+alias ocat=/bin/cat
+

@@ -4,6 +4,7 @@ alias emulator="emulator -avd Pixel_3a_API_34_extension_level_7_x86_64"
 
 alias lz=lazygit
 alias pn=pnpm
+alias ctl=systemctl
 alias src="source ~/.zshrc"
 
 # replaces cat with batcat

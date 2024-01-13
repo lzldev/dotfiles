@@ -1,8 +1,9 @@
 # add 'source ~/.zshaliases' to ~/.zshrc
 
-alias emulator="emulator -avd Pixel_3a_API_34_extension_level_7_x86_64"
+alias emulator="emulator -avd emulator01"
 
 alias lz=lazygit
+alias lzd=lazydocker
 alias pn=pnpm
 alias ctl=systemctl
 alias src="source ~/.zshrc"
